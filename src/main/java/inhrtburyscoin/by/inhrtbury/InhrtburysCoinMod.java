@@ -27,10 +27,12 @@ public class InhrtburysCoinMod
 
     public static final RegistryObject<CreativeModeTab> INHRTBURYSCOIN_TAB = CREATIVE_MODE_TABS.register("inhrtburyscoin_tab",
             () -> CreativeModeTab.builder()
-                    .icon(() -> new ItemStack(ItemsRegistry.GOLD_COIN_BUNDLE.get()))
+                    .icon(() -> new ItemStack(ItemsRegistry.TEN_GOLD_COINS.get()))
                     .title(Component.translatable("itemGroup.inhrtburyscoin_tab"))
                     .displayItems((parameters, output) -> {
                         output.accept(ItemsRegistry.GOLD_COIN_BUNDLE.get());
+                        output.accept(ItemsRegistry.DIAMOND_COIN_BUNDLE.get());
+                        output.accept(ItemsRegistry.COPPER_COIN_BUNDLE.get());
                         output.accept(ItemsRegistry.GOLD_COIN.get());
                         output.accept(ItemsRegistry.FIVE_GOLD_COINS.get());
                         output.accept(ItemsRegistry.TEN_GOLD_COINS.get());
