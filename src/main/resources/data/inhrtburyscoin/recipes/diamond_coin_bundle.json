@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "THT",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "T": {
+      "item": "minecraft:string"
+    },
+    "H": {
+      "item": "inhrtburyscoin:diamond_coin"
+    }
+  },
+  "result": {
+    "item": "inhrtburyscoin:diamond_coin_bundle",
+    "count": 1
+  }
+}
