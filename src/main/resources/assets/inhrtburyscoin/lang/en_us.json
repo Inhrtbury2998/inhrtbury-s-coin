@@ -1,0 +1,23 @@
+{
+  "item.inhrtburyscoin.fifty_copper_coins": "50 Copper Coins",
+  "item.inhrtburyscoin.diamond_coin_bundle": "Diamond Coin Bundle",
+  "item.inhrtburyscoin.five_copper_coins": "5 Copper Coins",
+  "item.inhrtburyscoin.gold_coin": "Gold Coin",
+  "item.inhrtburyscoin.copper_coin_bundle": "Copper Coin Bundle",
+  "item.inhrtburyscoin.five_gold_coins": "5 Gold Coins",
+  "item.inhrtburyscoin.ten_gold_coins": "10 Gold Coins",
+  "item.inhrtburyscoin.diamond_coin": "Diamond Coin",
+  "item.inhrtburyscoin.gold_coin_bundle": "Gold Coin Bundle",
+  "item.inhrtburyscoin.fifty_gold_coins": "50 Gold Coins",
+  "item.inhrtburyscoin.fifty_diamond_coins": "50 Diamond Coins",
+  "item.inhrtburyscoin.ten_diamond_coins": "10 Diamond Coins",
+  "item.inhrtburyscoin.ten_copper_coins": "10 Copper Coins",
+  "item.inhrtburyscoin.five_diamond_coins": "5 Diamond Coins",
+  "item.inhrtburyscoin.copper_coin": "Copper Coin",
+  "itemGroup.inhrtburyscoin_tab": "inhrtbury's coin",
+  "bundle.inhrtburyscoin.full": "bundle was full.",
+  "bundle.inhrtburyscoin.no_coins": "no coins in the inventory.",
+  "bundle.inhrtburyscoin.deposited": "coins was deposited.",
+  "bundle.inhrtburyscoin.empty": "bundle was empty.",
+  "bundle.inhrtburyscoin.withdrawn": "coins was withdrawn."
+}

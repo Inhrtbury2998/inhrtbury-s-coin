@@ -1,0 +1,24 @@
+{
+  "item.inhrtburyscoin.copper_coin": "铜币 x1",
+  "item.inhrtburyscoin.copper_coin_bundle": "铜币袋",
+  "item.inhrtburyscoin.diamond_coin": "钻石币 x1",
+  "item.inhrtburyscoin.diamond_coin_bundle": "钻石币袋",
+  "item.inhrtburyscoin.fifty_copper_coins": "铜币 x50",
+  "item.inhrtburyscoin.fifty_diamond_coins": "钻石币 x50",
+  "item.inhrtburyscoin.fifty_gold_coins": "金币 x50",
+  "item.inhrtburyscoin.five_copper_coins": "铜币 x5",
+  "item.inhrtburyscoin.five_diamond_coins": "钻石币 x5",
+  "item.inhrtburyscoin.five_gold_coins": "金币 x5",
+  "item.inhrtburyscoin.gold_coin": "金币 x1",
+  "item.inhrtburyscoin.gold_coin_bundle": "金币袋",
+  "item.inhrtburyscoin.ten_copper_coins": "铜币 x10",
+  "item.inhrtburyscoin.ten_diamond_coins": "钻石币 x10",
+  "item.inhrtburyscoin.ten_gold_coins": "金币 x10",
+  "itemGroup.inhrtburyscoin_tab": "Inhrtbury的金币",
+  "bundle.inhrtburyscoin.full": "币袋已满。",
+  "bundle.inhrtburyscoin.no_coins": "背包中没有硬币。",
+  "bundle.inhrtburyscoin.deposited": "硬币已存入。",
+  "bundle.inhrtburyscoin.empty": "币袋是空的。",
+  "bundle.inhrtburyscoin.withdrawn": "硬币已取出。"
+
+}
